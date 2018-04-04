@@ -1,0 +1,13 @@
+C:\Users\Dark Energee\source\repos\XeekarRestClient\XeekarRestClient\bin\Debug\XeekarRestClient.exe.config
+C:\Users\Dark Energee\source\repos\XeekarRestClient\XeekarRestClient\bin\Debug\XeekarRestClient.exe
+C:\Users\Dark Energee\source\repos\XeekarRestClient\XeekarRestClient\bin\Debug\XeekarRestClient.pdb
+C:\Users\Dark Energee\source\repos\XeekarRestClient\XeekarRestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dark Energee\source\repos\XeekarRestClient\XeekarRestClient\bin\Debug\Pathoschild.Http.Client.dll
+C:\Users\Dark Energee\source\repos\XeekarRestClient\XeekarRestClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Dark Energee\source\repos\XeekarRestClient\XeekarRestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dark Energee\source\repos\XeekarRestClient\XeekarRestClient\bin\Debug\Pathoschild.Http.Client.xml
+C:\Users\Dark Energee\source\repos\XeekarRestClient\XeekarRestClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Dark Energee\source\repos\XeekarRestClient\XeekarRestClient\obj\Debug\XeekarRestClient.csprojResolveAssemblyReference.cache
+C:\Users\Dark Energee\source\repos\XeekarRestClient\XeekarRestClient\obj\Debug\XeekarRestClient.csproj.CoreCompileInputs.cache
+C:\Users\Dark Energee\source\repos\XeekarRestClient\XeekarRestClient\obj\Debug\XeekarRestClient.exe
+C:\Users\Dark Energee\source\repos\XeekarRestClient\XeekarRestClient\obj\Debug\XeekarRestClient.pdb
